@@ -51,7 +51,7 @@
 - 7 : Flags on/off
 - 8 : Label List on/off
 - 9 : Polygon Labels on/off
-- 0 : File List
+- 0 : File List on/off
 - S : Search Filename (File List)
 ```
 
