@@ -16,7 +16,7 @@
 #### Ctrl + key (Base)
 ```
 # File
-- A : Save Automatically
+- A : Automatically Save
 - C : Copy (Duplicate Polygons)
 - D : Change Output Dir
 - O : Open
