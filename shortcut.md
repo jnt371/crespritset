@@ -3,27 +3,32 @@
 #### Key
 ```bash
 # Shape
-- C : Circle
-- L : Line
-- P : Point
-- R : Rectangle
+- 1 : Polygon Mode
+- C : Circle Mode
+- L : Line Mode
+- P : Point Mode
+- R : Rectangle Mode
+
 - Del : Delete Polygons
 - ← , → : Prev , Next
 ```
 
 #### Ctrl + key (Base)
 ```
+# File
 - A : Save Automatically
 - C : Copy (Duplicate Polygons)
-- L : Clear (Delete Polygons)
 - D : Change Output Dir
 - O : Open
 - S : Save
 - R : Open Recent
+
 - Z : Undo
 - Y : Redo
+
 - Q : Program Quit
 - W : Window(Image) Close
+
 - Wheel ↑ : Zoom In
 - Wheel ↓ : Zoom Out
 ```
