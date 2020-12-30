@@ -11,7 +11,7 @@
 - ← , → : Prev , Next
 ```
 
-#### Ctrl + key (Basic)
+#### Ctrl + key (Base)
 ```
 - A : Save Automatically
 - C : Copy (Duplicate Polygons)
