@@ -19,6 +19,7 @@
 - A : Automatically Save
 - C : Copy (Duplicate Polygons)
 - D : Change Output Dir
+- F : Fit Width
 - O : Open
 - S : Save
 - R : Open Recent
@@ -31,12 +32,12 @@
 
 - Wheel ↑ : Zoom In
 - Wheel ↓ : Zoom Out
+- Wheel button : Zoom Original
 ```
 
 #### Shift + key (Tools)
 ```
 - B : BrightnessContrast
-- C : CreateMode
 - D : Delete File
 - E : Edit Label
 - F : Fit Window
@@ -62,5 +63,5 @@
 
 #### Alt + Shift + key ()
 ```
-- F : Fit Width
+
 ```
