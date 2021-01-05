@@ -1,8 +1,7 @@
 # crespritset
 
-#### 1. instance bounding box
+#### 1. instance level [bounding box]
 `object : person, car, distractor`
 
-#### 2. semantic segmentation
+#### 2. semantic level [segmentation]
 `flat : crosswalk, road, sidewalk`
-
