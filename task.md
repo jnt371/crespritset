@@ -2,7 +2,7 @@
 
 #### 1. instance
 ```
-[bounding box]
+[rectangle]
 
 object : person, car, distractor
 ```
